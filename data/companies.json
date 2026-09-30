@@ -1,0 +1,827 @@
+{
+  "fundraisingSources": [
+    {
+      "category": "Children",
+      "organizations": [
+        {
+          "name": "Make-A-Wish",
+          "link": "https://wish.org/",
+          "image": "images/make-a-wish.webp"
+        },
+        {
+          "name": "Save the Children",
+          "link": "https://www.savethechildren.org/",
+          "image": "images/save-the-children.webp"
+        },
+        {
+          "name": "Newborns in Need",
+          "link": "https://www.newbornsinneed.org/",
+          "image": "images/newborns-in-need.webp"
+        },
+        {
+          "name": "SOS Children's Villages",
+          "link": "https://www.sos-usa.org/",
+          "image": "images/sos-childrens-villages.webp"
+        },
+        {
+          "name": "Reach Out and Read",
+          "link": "https://reachoutandread.org/",
+          "image": "images/reach-out-and-read.webp"
+        },
+        {
+          "name": "Youth Law Center",
+          "link": "https://youthlaw.org/",
+          "image": "images/youth-law-center.webp"
+        },
+        {
+          "name": "Project Linus",
+          "link": "https://www.projectlinus.org/",
+          "image": "images/project-linus.webp"
+        },
+        {
+          "name": "Parents as Teachers",
+          "link": "https://parentsasteachers.org/",
+          "image": "images/parents-as-teachers.webp"
+        },
+        {
+          "name": "Children's Hunger Fund",
+          "link": "https://childrenshungerfund.org/",
+          "image": "images/childrens-hunger-fund.webp"
+        },
+        {
+          "name": "Children International",
+          "link": "https://www.children.org/",
+          "image": "images/children-international.webp"
+        }
+      ]
+    },
+    {
+      "category": "Better Humanity",
+      "organizations": [
+        {
+          "name": "Habitat for Humanity",
+          "link": "https://www.habitat.org/",
+          "image": "images/habitat-for-humanity.webp"
+        },
+        {
+          "name": "Humanity First",
+          "link": "https://usa.humanityfirst.org/",
+          "image": "images/humanity-first.webp"
+        },
+        {
+          "name": "World Relief",
+          "link": "https://worldrelief.org/",
+          "image": "images/world-relief.webp"
+        },
+        {
+          "name": "Goodwill",
+          "link": "https://www.goodwill.org/",
+          "image": "images/goodwill.webp"
+        },
+        {
+          "name": "Operation Blessing",
+          "link": "https://www.ob.org/",
+          "image": "images/operation-blessing.webp"
+        },
+        {
+          "name": "Mercy Corps",
+          "link": "https://www.mercycorps.org/",
+          "image": "images/mercy-corps.webp"
+        },
+        {
+          "name": "World Vision",
+          "link": "https://www.worldvision.org/",
+          "image": "images/world-vision.webp"
+        },
+        {
+          "name": "Hungry For Life",
+          "link": "https://www.hungryforlife.org/",
+          "image": "images/hungry-for-life.webp"
+        },
+        {
+          "name": "Hikmah Relief",
+          "link": "https://hikmahrelief.org/",
+          "image": "images/hikmah-relief.webp"
+        },
+        {
+          "name": "Callisto",
+          "link": "https://www.projectcallisto.org/",
+          "image": "images/callisto.webp"
+        }
+      ]
+    },
+    {
+      "category": "Healthcare",
+      "organizations": [
+        {
+          "name": "International Medical Corps",
+          "link": "https://internationalmedicalcorps.org/",
+          "image": "images/international-medical-corps.webp"
+        },
+        {
+          "name": "Americares",
+          "link": "https://www.americares.org/",
+          "image": "images/americares.webp"
+        },
+        {
+          "name": "Project HOPE",
+          "link": "https://www.projecthope.org/",
+          "image": "images/project-hope.webp"
+        },
+        {
+          "name": "Project CURE",
+          "link": "https://projectcure.org/",
+          "image": "images/project-cure.webp"
+        },
+        {
+          "name": "MedShare",
+          "link": "https://www.medshare.org/",
+          "image": "images/medshare.webp"
+        },
+        {
+          "name": "MAP International",
+          "link": "https://www.map.org/",
+          "image": "images/map-international.webp"
+        },
+        {
+          "name": "Heart to Heart International",
+          "link": "https://www.hearttoheart.org/",
+          "image": "images/heart-to-heart.webp"
+        },
+        {
+          "name": "Doctors of the World",
+          "link": "https://doctorsoftheworld.org/",
+          "image": "images/doctors-of-the-world.webp"
+        },
+        {
+          "name": "Irish Red Cross",
+          "link": "https://www.redcross.ie/",
+          "image": "images/irish-red-cross.webp"
+        },
+        {
+          "name": "Direct Relief",
+          "link": "https://www.directrelief.org/",
+          "image": "images/direct-relief.webp"
+        }
+      ]
+    },
+    {
+      "category": "Animals",
+      "organizations": [
+        {
+          "name": "ASPCA",
+          "link": "https://www.aspca.org/",
+          "image": "images/aspca.webp"
+        },
+        {
+          "name": "American Bird Conservancy",
+          "link": "https://abcbirds.org/",
+          "image": "images/american-bird-conservancy.webp"
+        },
+        {
+          "name": "Panthera",
+          "link": "https://panthera.org/",
+          "image": "images/panthera.webp"
+        },
+        {
+          "name": "Mercy For Animals",
+          "link": "https://mercyforanimals.org/",
+          "image": "images/mercy-for-animals.webp"
+        },
+        {
+          "name": "The Marine Mammal Center",
+          "link": "https://www.marinemammalcenter.org/",
+          "image": "images/marine-mammal-center.webp"
+        },
+        {
+          "name": "The Anti-Cruelty Society",
+          "link": "https://anticruelty.org/",
+          "image": "images/anti-cruelty-society.webp"
+        },
+        {
+          "name": "Dogs on Deployment",
+          "link": "https://www.dogsondeployment.org/",
+          "image": "images/dogs-on-deployment.webp"
+        },
+        {
+          "name": "Lonely Whale",
+          "link": "https://www.lonelywhale.org/",
+          "image": "images/lonely-whale.webp"
+        },
+        {
+          "name": "Memphis Zoo",
+          "link": "https://www.memphiszoo.org/",
+          "image": "images/memphis-zoo.webp"
+        },
+        {
+          "name": "Best Friends Animal Society",
+          "link": "https://bestfriends.org/",
+          "image": "images/best-friends-animal-society.webp"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "organizations": [
+        {
+          "name": "DonorsChoose",
+          "link": "https://www.donorschoose.org/",
+          "image": "images/donorschoose.webp"
+        },
+        {
+          "name": "Pratham",
+          "link": "https://www.pratham.org/",
+          "image": "images/pratham.webp"
+        },
+        {
+          "name": "Reading Is Fundamental",
+          "link": "https://www.rif.org/",
+          "image": "images/reading-is-fundamental.webp"
+        },
+        {
+          "name": "Worldreader",
+          "link": "https://www.worldreader.org/",
+          "image": "images/worldreader.webp"
+        },
+        {
+          "name": "Year Up",
+          "link": "https://www.yearup.org/",
+          "image": "images/year-up.webp"
+        },
+        {
+          "name": "Per Scholas",
+          "link": "https://perscholas.org/",
+          "image": "images/per-scholas.webp"
+        },
+        {
+          "name": "Education Development Center",
+          "link": "https://www.edc.org/",
+          "image": "images/education-development-center.webp"
+        },
+        {
+          "name": "I Have a Dream Foundation",
+          "link": "https://www.ihaveadreamfoundation.org/",
+          "image": "images/i-have-a-dream.webp"
+        },
+        {
+          "name": "Shanti Bhavan",
+          "link": "https://www.shantibhavanchildren.org/",
+          "image": "images/shanti-bhavan.webp"
+        },
+        {
+          "name": "Khan Academy",
+          "link": "https://www.khanacademy.org/",
+          "image": "images/khan-academy.webp"
+        }
+      ]
+    },
+    {
+      "category": "Environment",
+      "organizations": [
+        {
+          "name": "World Wildlife Fund",
+          "link": "https://www.worldwildlife.org/",
+          "image": "images/world-wildlife-fund.webp"
+        },
+        {
+          "name": "The Nature Conservancy",
+          "link": "https://www.nature.org/",
+          "image": "images/nature-conservancy.webp"
+        },
+        {
+          "name": "Greenpeace",
+          "link": "https://www.greenpeace.org/",
+          "image": "images/greenpeace.webp"
+        },
+        {
+          "name": "Environmental Defense Fund",
+          "link": "https://www.edf.org/",
+          "image": "images/environmental-defense-fund.webp"
+        },
+        {
+          "name": "Sierra Club",
+          "link": "https://www.sierraclub.org/",
+          "image": "images/sierra-club.webp"
+        },
+        {
+          "name": "Rainforest Alliance",
+          "link": "https://www.rainforest-alliance.org/",
+          "image": "images/rainforest-alliance.webp"
+        },
+        {
+          "name": "Conservation International",
+          "link": "https://www.conservation.org/",
+          "image": "images/conservation-international.webp"
+        },
+        {
+          "name": "Ocean Conservancy",
+          "link": "https://oceanconservancy.org/",
+          "image": "images/ocean-conservancy.webp"
+        },
+        {
+          "name": "Earthjustice",
+          "link": "https://earthjustice.org/",
+          "image": "images/earthjustice.webp"
+        },
+        {
+          "name": "Clean Air Task Force",
+          "link": "https://www.catf.us/",
+          "image": "images/clean-air-task-force.webp"
+        }
+      ]
+    },
+    {
+      "category": "Hunger",
+      "organizations": [
+        {
+          "name": "Feeding America",
+          "link": "https://www.feedingamerica.org/",
+          "image": "images/feeding-america.webp"
+        },
+        {
+          "name": "Action Against Hunger",
+          "link": "https://www.actionagainsthunger.org/",
+          "image": "images/action-against-hunger.webp"
+        },
+        {
+          "name": "World Food Programme",
+          "link": "https://www.wfp.org/",
+          "image": "images/world-food-programme.webp"
+        },
+        {
+          "name": "No Kid Hungry",
+          "link": "https://www.nokidhungry.org/",
+          "image": "images/no-kid-hungry.webp"
+        },
+        {
+          "name": "Meals on Wheels America",
+          "link": "https://www.mealsonwheelsamerica.org/",
+          "image": "images/meals-on-wheels.webp"
+        },
+        {
+          "name": "Share Our Strength",
+          "link": "https://www.shareourstrength.org/",
+          "image": "images/share-our-strength.webp"
+        },
+        {
+          "name": "Food Bank for New York City",
+          "link": "https://www.foodbanknyc.org/",
+          "image": "images/food-bank-nyc.webp"
+        },
+        {
+          "name": "The Hunger Project",
+          "link": "https://thehungerproject.org/",
+          "image": "images/hunger-project.webp"
+        },
+        {
+          "name": "Rise Against Hunger",
+          "link": "https://www.riseagainsthunger.org/",
+          "image": "images/rise-against-hunger.webp"
+        },
+        {
+          "name": "Greater Chicago Food Depository",
+          "link": "https://www.chicagosfoodbank.org/",
+          "image": "images/greater-chicago-food-depository.webp"
+        }
+      ]
+    },
+    {
+      "category": "Homelessness",
+      "organizations": [
+        {
+          "name": "National Alliance to End Homelessness",
+          "link": "https://endhomelessness.org/",
+          "image": "images/national-alliance-homelessness.webp"
+        },
+        {
+          "name": "Covenant House",
+          "link": "https://www.covenanthouse.org/",
+          "image": "images/covenant-house.webp"
+        },
+        {
+          "name": "National Coalition for the Homeless",
+          "link": "https://nationalhomeless.org/",
+          "image": "images/national-coalition-homeless.webp"
+        },
+        {
+          "name": "The Salvation Army",
+          "link": "https://www.salvationarmyusa.org/",
+          "image": "images/salvation-army.webp"
+        },
+        {
+          "name": "Catholic Charities USA",
+          "link": "https://www.catholiccharitiesusa.org/",
+          "image": "images/catholic-charities.webp"
+        },
+        {
+          "name": "Volunteers of America",
+          "link": "https://www.voa.org/",
+          "image": "images/volunteers-of-america.webp"
+        },
+        {
+          "name": "St. Vincent de Paul",
+          "link": "https://ssvpusa.org/",
+          "image": "images/st-vincent-de-paul.webp"
+        },
+        {
+          "name": "Community Solutions",
+          "link": "https://community.solutions/",
+          "image": "images/community-solutions.webp"
+        },
+        {
+          "name": "Pathways to Housing",
+          "link": "https://www.pathwaystohousingdc.org/",
+          "image": "images/pathways-to-housing.webp"
+        },
+        {
+          "name": "Depaul USA",
+          "link": "https://depaulusa.org/",
+          "image": "images/depaul-usa.webp"
+        }
+      ]
+    },
+    {
+      "category": "Refugees",
+      "organizations": [
+        {
+          "name": "International Rescue Committee",
+          "link": "https://www.rescue.org/",
+          "image": "images/international-rescue-committee.webp"
+        },
+        {
+          "name": "UNHCR",
+          "link": "https://www.unhcr.org/",
+          "image": "images/unhcr.webp"
+        },
+        {
+          "name": "RefugePoint",
+          "link": "https://refugepoint.org/",
+          "image": "images/refugepoint.webp"
+        },
+        {
+          "name": "HIAS",
+          "link": "https://hias.org/",
+          "image": "images/hias.webp"
+        },
+        {
+          "name": "World Relief",
+          "link": "https://worldrelief.org/",
+          "image": "images/world-relief.webp"
+        },
+        {
+          "name": "Lutheran Immigration and Refugee Service",
+          "link": "https://lirs.org/",
+          "image": "images/lutheran-refugee-service.webp"
+        },
+        {
+          "name": "Church World Service",
+          "link": "https://cwsglobal.org/",
+          "image": "images/church-world-service.webp"
+        },
+        {
+          "name": "Jesuit Refugee Service",
+          "link": "https://jrs.net/",
+          "image": "images/jesuit-refugee-service.webp"
+        },
+        {
+          "name": "Refugees International",
+          "link": "https://www.refugeesinternational.org/",
+          "image": "images/refugees-international.webp"
+        },
+        {
+          "name": "International Organization for Migration",
+          "link": "https://www.iom.int/",
+          "image": "images/iom.webp"
+        }
+      ]
+    },
+    {
+      "category": "Disaster Relief",
+      "organizations": [
+        {
+          "name": "American Red Cross",
+          "link": "https://www.redcross.org/",
+          "image": "images/american-red-cross.webp"
+        },
+        {
+          "name": "Direct Relief",
+          "link": "https://www.directrelief.org/",
+          "image": "images/direct-relief.webp"
+        },
+        {
+          "name": "Team Rubicon",
+          "link": "https://teamrubiconusa.org/",
+          "image": "images/team-rubicon.webp"
+        },
+        {
+          "name": "International Rescue Committee",
+          "link": "https://www.rescue.org/",
+          "image": "images/international-rescue-committee.webp"
+        },
+        {
+          "name": "All Hands and Hearts",
+          "link": "https://www.allhandsandhearts.org/",
+          "image": "images/all-hands-and-hearts.webp"
+        },
+        {
+          "name": "Americares",
+          "link": "https://www.americares.org/",
+          "image": "images/americares.webp"
+        },
+        {
+          "name": "GlobalGiving",
+          "link": "https://www.globalgiving.org/",
+          "image": "images/globalgiving.webp"
+        },
+        {
+          "name": "CARE",
+          "link": "https://www.care.org/",
+          "image": "images/care.webp"
+        },
+        {
+          "name": "World Central Kitchen",
+          "link": "https://wck.org/",
+          "image": "images/world-central-kitchen.webp"
+        },
+        {
+          "name": "Convoy of Hope",
+          "link": "https://convoyofhope.org/",
+          "image": "images/convoy-of-hope.webp"
+        }
+      ]
+    },
+    {
+      "category": "Elderly",
+      "organizations": [
+        {
+          "name": "Meals on Wheels America",
+          "link": "https://www.mealsonwheelsamerica.org/",
+          "image": "images/meals-on-wheels.webp"
+        },
+        {
+          "name": "AARP Foundation",
+          "link": "https://www.aarp.org/aarp-foundation/",
+          "image": "images/aarp-foundation.webp"
+        },
+        {
+          "name": "Alzheimer's Association",
+          "link": "https://www.alz.org/",
+          "image": "images/alzheimers-association.webp"
+        },
+        {
+          "name": "National Council on Aging",
+          "link": "https://www.ncoa.org/",
+          "image": "images/national-council-aging.webp"
+        },
+        {
+          "name": "Little Brothers - Friends of the Elderly",
+          "link": "https://littlebrothers.org/",
+          "image": "images/little-brothers.webp"
+        },
+        {
+          "name": "Age UK",
+          "link": "https://www.ageuk.org.uk/",
+          "image": "images/age-uk.webp"
+        },
+        {
+          "name": "HelpAge International",
+          "link": "https://www.helpage.org/",
+          "image": "images/helpage-international.webp"
+        },
+        {
+          "name": "Catholic Charities",
+          "link": "https://www.catholiccharitiesusa.org/",
+          "image": "images/catholic-charities.webp"
+        },
+        {
+          "name": "Eldercare Locator",
+          "link": "https://eldercare.acl.gov/",
+          "image": "images/eldercare-locator.webp"
+        },
+        {
+          "name": "Senior Corps",
+          "link": "https://americorps.gov/serve/fit-finder/americorps-seniors",
+          "image": "images/senior-corps.webp"
+        }
+      ]
+    },
+    {
+      "category": "Disability Support",
+      "organizations": [
+        {
+          "name": "Special Olympics",
+          "link": "https://www.specialolympics.org/",
+          "image": "images/special-olympics.webp"
+        },
+        {
+          "name": "Easterseals",
+          "link": "https://www.easterseals.com/",
+          "image": "images/easterseals.webp"
+        },
+        {
+          "name": "United Cerebral Palsy",
+          "link": "https://ucp.org/",
+          "image": "images/united-cerebral-palsy.webp"
+        },
+        {
+          "name": "The Arc",
+          "link": "https://thearc.org/",
+          "image": "images/the-arc.webp"
+        },
+        {
+          "name": "Muscular Dystrophy Association",
+          "link": "https://www.mda.org/",
+          "image": "images/muscular-dystrophy-association.webp"
+        },
+        {
+          "name": "Christopher & Dana Reeve Foundation",
+          "link": "https://www.christopherreeve.org/",
+          "image": "images/christopher-reeve-foundation.webp"
+        },
+        {
+          "name": "National Down Syndrome Society",
+          "link": "https://ndss.org/",
+          "image": "images/national-down-syndrome-society.webp"
+        },
+        {
+          "name": "Cerebral Palsy Alliance",
+          "link": "https://cerebralpalsy.org.au/",
+          "image": "images/cerebral-palsy-alliance.webp"
+        },
+        {
+          "name": "Disability Rights Education and Defense Fund",
+          "link": "https://dredf.org/",
+          "image": "images/dredf.webp"
+        },
+        {
+          "name": "AbilityOne",
+          "link": "https://www.abilityone.gov/",
+          "image": "images/abilityone.webp"
+        }
+      ]
+    },
+    {
+      "category": "Women And Girls",
+      "organizations": [
+        {
+          "name": "UN Women",
+          "link": "https://www.unwomen.org/",
+          "image": "images/un-women.webp"
+        },
+        {
+          "name": "Girls Inc.",
+          "link": "https://girlsinc.org/",
+          "image": "images/girls-inc.webp"
+        },
+        {
+          "name": "Dress for Success",
+          "link": "https://dressforsuccess.org/",
+          "image": "images/dress-for-success.webp"
+        },
+        {
+          "name": "Women for Women International",
+          "link": "https://www.womenforwomen.org/",
+          "image": "images/women-for-women.webp"
+        },
+        {
+          "name": "Global Fund for Women",
+          "link": "https://www.globalfundforwomen.org/",
+          "image": "images/global-fund-for-women.webp"
+        },
+        {
+          "name": "Malala Fund",
+          "link": "https://malala.org/",
+          "image": "images/malala-fund.webp"
+        },
+        {
+          "name": "CARE",
+          "link": "https://www.care.org/",
+          "image": "images/care.webp"
+        },
+        {
+          "name": "Women Deliver",
+          "link": "https://www.womendeliver.org/",
+          "image": "images/women-deliver.webp"
+        },
+        {
+          "name": "Equality Now",
+          "link": "https://www.equalitynow.org/",
+          "image": "images/equality-now.webp"
+        },
+        {
+          "name": "The Women's Foundation",
+          "link": "https://www.womensfoundation.org/",
+          "image": "images/womens-foundation.webp"
+        }
+      ]
+    },
+    {
+      "category": "Mental Health",
+      "organizations": [
+        {
+          "name": "National Alliance on Mental Illness",
+          "link": "https://www.nami.org/",
+          "image": "images/nami.webp"
+        },
+        {
+          "name": "Mental Health America",
+          "link": "https://mhanational.org/",
+          "image": "images/mental-health-america.webp"
+        },
+        {
+          "name": "Crisis Text Line",
+          "link": "https://www.crisistextline.org/",
+          "image": "images/crisis-text-line.webp"
+        },
+        {
+          "name": "Active Minds",
+          "link": "https://www.activeminds.org/",
+          "image": "images/active-minds.webp"
+        },
+        {
+          "name": "The Trevor Project",
+          "link": "https://www.thetrevorproject.org/",
+          "image": "images/trevor-project.webp"
+        },
+        {
+          "name": "Bring Change to Mind",
+          "link": "https://bringchange2mind.org/",
+          "image": "images/bring-change-to-mind.webp"
+        },
+        {
+          "name": "To Write Love on Her Arms",
+          "link": "https://twloha.com/",
+          "image": "images/twloha.webp"
+        },
+        {
+          "name": "Mind",
+          "link": "https://www.mind.org.uk/",
+          "image": "images/mind.webp"
+        },
+        {
+          "name": "Mental Health Foundation",
+          "link": "https://www.mentalhealth.org.uk/",
+          "image": "images/mental-health-foundation.webp"
+        },
+        {
+          "name": "Open Path Collective",
+          "link": "https://openpathcollective.org/",
+          "image": "images/open-path-collective.webp"
+        }
+      ]
+    },{
+    "category": "Poverty",
+  "organizations": [
+    {
+      "name": "Oxfam",
+      "link": "https://www.oxfam.org/",
+      "image": "images/oxfam.webp"
+    },
+    {
+      "name": "CARE",
+      "link": "https://www.care.org/",
+      "image": "images/care.webp"
+    },
+    {
+      "name": "World Vision",
+      "link": "https://www.worldvision.org/",
+      "image": "images/world-vision.webp"
+    },
+    {
+      "name": "Heifer International",
+      "link": "https://www.heifer.org/",
+      "image": "images/heifer-international.webp"
+    },
+    {
+      "name": "BRAC",
+      "link": "https://www.brac.net/",
+      "image": "images/brac.webp"
+    },
+    {
+      "name": "GiveDirectly",
+      "link": "https://www.givedirectly.org/",
+      "image": "images/givedirectly.webp"
+    },
+    {
+      "name": "Kiva",
+      "link": "https://www.kiva.org/",
+      "image": "images/kiva.webp"
+    },
+    {
+      "name": "Acumen",
+      "link": "https://acumen.org/",
+      "image": "images/acumen.webp"
+    },
+    {
+      "name": "Opportunity International",
+      "link": "https://opportunity.org/",
+      "image": "images/opportunity-international.webp"
+    },
+    {
+      "name": "One Acre Fund",
+      "link": "https://oneacrefund.org/",
+      "image": "images/one-acre-fund.webp"
+    }
+  ]
+  }]
+}
