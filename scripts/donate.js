@@ -3,6 +3,14 @@ const url = "data/companies.json";
 const causes = "data/causes.json";
 const apiUrl = "https://partners.every.org/v0.2/browse/animals?apiKey=pk_live_3223dc44a9639df5b8feec65a778f4e0";
 
+const ApiUrl = "https://api.globalgiving.org/api/public/projectservice/themes?api_key=b373aff4-bd12-4b7e-8b2b-ba4c3ea572cb"
+
+async function GetTheme() {
+    const response = await fetch(ApiUrl);
+    const themes = response.json();
+    console.log(themes);
+}
+GetTheme();
 async function getCompaniesData() {
   const response = await fetch(apiUrl);
   const data = await response.json();
