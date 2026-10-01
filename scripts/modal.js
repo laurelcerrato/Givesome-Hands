@@ -9,5 +9,5 @@ if (modal && openModalBtn && closeModalBtn) {
   });
   closeModalBtn.addEventListener("click", () => {
     modal.close();
-  })
-};
+  });
+}

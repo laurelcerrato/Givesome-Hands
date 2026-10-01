@@ -769,59 +769,61 @@
           "image": "images/open-path-collective.webp"
         }
       ]
-    },{
-    "category": "Poverty",
-  "organizations": [
-    {
-      "name": "Oxfam",
-      "link": "https://www.oxfam.org/",
-      "image": "images/oxfam.webp"
     },
     {
-      "name": "CARE",
-      "link": "https://www.care.org/",
-      "image": "images/care.webp"
-    },
-    {
-      "name": "World Vision",
-      "link": "https://www.worldvision.org/",
-      "image": "images/world-vision.webp"
-    },
-    {
-      "name": "Heifer International",
-      "link": "https://www.heifer.org/",
-      "image": "images/heifer-international.webp"
-    },
-    {
-      "name": "BRAC",
-      "link": "https://www.brac.net/",
-      "image": "images/brac.webp"
-    },
-    {
-      "name": "GiveDirectly",
-      "link": "https://www.givedirectly.org/",
-      "image": "images/givedirectly.webp"
-    },
-    {
-      "name": "Kiva",
-      "link": "https://www.kiva.org/",
-      "image": "images/kiva.webp"
-    },
-    {
-      "name": "Acumen",
-      "link": "https://acumen.org/",
-      "image": "images/acumen.webp"
-    },
-    {
-      "name": "Opportunity International",
-      "link": "https://opportunity.org/",
-      "image": "images/opportunity-international.webp"
-    },
-    {
-      "name": "One Acre Fund",
-      "link": "https://oneacrefund.org/",
-      "image": "images/one-acre-fund.webp"
+      "category": "Poverty",
+      "organizations": [
+        {
+          "name": "Oxfam",
+          "link": "https://www.oxfam.org/",
+          "image": "images/oxfam.webp"
+        },
+        {
+          "name": "CARE",
+          "link": "https://www.care.org/",
+          "image": "images/care.webp"
+        },
+        {
+          "name": "World Vision",
+          "link": "https://www.worldvision.org/",
+          "image": "images/world-vision.webp"
+        },
+        {
+          "name": "Heifer International",
+          "link": "https://www.heifer.org/",
+          "image": "images/heifer-international.webp"
+        },
+        {
+          "name": "BRAC",
+          "link": "https://www.brac.net/",
+          "image": "images/brac.webp"
+        },
+        {
+          "name": "GiveDirectly",
+          "link": "https://www.givedirectly.org/",
+          "image": "images/givedirectly.webp"
+        },
+        {
+          "name": "Kiva",
+          "link": "https://www.kiva.org/",
+          "image": "images/kiva.webp"
+        },
+        {
+          "name": "Acumen",
+          "link": "https://acumen.org/",
+          "image": "images/acumen.webp"
+        },
+        {
+          "name": "Opportunity International",
+          "link": "https://opportunity.org/",
+          "image": "images/opportunity-international.webp"
+        },
+        {
+          "name": "One Acre Fund",
+          "link": "https://oneacrefund.org/",
+          "image": "images/one-acre-fund.webp"
+        }
+      ]
     }
   ]
-  }]
 }
