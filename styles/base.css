@@ -290,6 +290,7 @@ ul a {
   right: 10px;
 }
 
+
 .categories section h3 {
   text-align: center;
   font-size: 30px;
@@ -515,4 +516,32 @@ footer {
 .make-a-diff-image {
   margin-left: auto;
   margin-right: auto;
+}
+.categories h2 {
+  color: #000000;
+}
+#fundraisings {
+  grid-column: 1 / -1;
+  /* span the full width of .donate-grid */
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.nonprofit {
+  background: #fefee3;
+  border: 2px solid #2c6e49;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.nonprofit img {
+  max-width: 80px;
+  height: auto;
+}
+
+.nonprofit a {
+  color: #8c0303;
+  font-weight: bold;
 }
