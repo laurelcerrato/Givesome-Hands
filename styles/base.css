@@ -2,6 +2,7 @@ body {
   font-family: "Montserrat", "Intel One Mono", monospace;
   padding: 0;
   margin: 0;
+  background-color: #fefee3;
 }
 
 h1,
@@ -303,7 +304,7 @@ ul a {
 
 .donate-grid {
   margin: 0;
-  background-color: #fefee3;
+
 }
 
 .home-info {
@@ -544,4 +545,53 @@ footer {
 .nonprofit a {
   color: #8c0303;
   font-weight: bold;
+}
+
+/* Animations */
+.hearts {
+    position: fixed;
+      /* covers the whole screen, ignores the empty div's size */
+      inset: 0;
+      overflow: hidden;
+      z-index: -1;
+      /* behind all the content */
+      pointer-events: none;
+}
+
+.hearts::before,
+.hearts::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: calc(100% + 1000px);
+  pointer-events: none;
+  background-repeat: repeat;
+  animation: moveHearts 60s linear infinite;
+  opacity: 0.6;
+}
+
+/* Layer 1: closer, faster hearts */
+.hearts::before {
+  background-size: 250px 250px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='250' height='250' viewBox='0 0 250 250' fill='%23ff6b9d'%3E%3Cdefs%3E%3Cpath id='h' d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/defs%3E%3Cuse href='%23h' transform='translate(20 30) scale(0.8)'/%3E%3Cuse href='%23h' transform='translate(110 90)'/%3E%3Cuse href='%23h' transform='translate(190 20) scale(0.6)'/%3E%3Cuse href='%23h' transform='translate(60 160) scale(0.7)'/%3E%3Cuse href='%23h' transform='translate(170 150) scale(1.1)'/%3E%3Cuse href='%23h' transform='translate(220 210) scale(0.6)'/%3E%3C/svg%3E");
+}
+
+/* Layer 2: farther, slower, softer hearts (depth) */
+.hearts::after {
+  background-size: 500px 500px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='500' viewBox='0 0 500 500' fill='%23ffc9b9'%3E%3Cdefs%3E%3Cpath id='h' d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/defs%3E%3Cuse href='%23h' transform='translate(50 60) scale(0.6)'/%3E%3Cuse href='%23h' transform='translate(260 140) scale(0.8)'/%3E%3Cuse href='%23h' transform='translate(400 40) scale(0.5)'/%3E%3Cuse href='%23h' transform='translate(130 300) scale(0.9)'/%3E%3Cuse href='%23h' transform='translate(350 320) scale(0.6)'/%3E%3Cuse href='%23h' transform='translate(440 430) scale(0.7)'/%3E%3Cuse href='%23h' transform='translate(30 440) scale(0.5)'/%3E%3C/svg%3E");
+  animation-duration: 120s;
+  opacity: 0.4;
+}
+
+@keyframes moveHearts {
+  from {
+    transform: translateY(0);
+  }
+
+  to {
+    transform: translateY(-1000px);
+  }
 }
